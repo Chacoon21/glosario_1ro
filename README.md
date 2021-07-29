@@ -17,6 +17,8 @@
 * Parte de la home page
 * Glosario de html
 
-
+```
+hasta finalizar
+```
 
 https://chacoons.github.io/glosario_1ro/
