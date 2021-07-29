@@ -18,7 +18,6 @@
 * Glosario de html
 
 ```
-hasta finalizar
-```
+En este portafolio podran una página que es la home page donde se encuentran botones para dirigirte al glosario, y un botón para dirigirte hacia mi perfil. En el glosario encontrarás las definiciones y ejemplos de las etiquetas vistas en clase para realizar el mismo. ```
 
 https://chacoons.github.io/glosario_1ro/
