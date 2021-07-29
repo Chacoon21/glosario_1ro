@@ -7,6 +7,12 @@
 * Diseñño Computarizado
 * IV bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
 
+## Objetivos
+
+* Comprender bien cada tema dado en clase.
+* Al participar en clase tener un mejor manejo de los temas.
+* Adquirir el hábito de practicar los temas.
+
 
 
 https://chacoons.github.io/glosario_1ro/
