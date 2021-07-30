@@ -1,3 +1,4 @@
+
 # PORTAFOLIO III PERIODO 2021 !
 [SCL logo](https://user-images.githubusercontent.com/77393842/127577037-a93eb828-0a39-4d60-a96f-7deaa5a62e8b.png)
 
@@ -21,4 +22,6 @@
 _En este portafolio podran una página que es la home page donde se encuentran botones para dirigirte al glosario, y un botón para dirigirte hacia mi perfil. En el glosario encontrarás las definiciones y ejemplos de las etiquetas vistas en clase para realizar el mismo._
 
 
+
+![mika-baumeister-J5yoGZLdpSI-unsplash](https://user-images.githubusercontent.com/77393842/127580495-2562c090-4ee9-4cf9-856e-395ab36b0311.jpg)
 https://chacoons.github.io/glosario_1ro/
