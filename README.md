@@ -9,16 +9,12 @@
 
 ## Objetivos
 
-* Comprender bien cada tema dado en clase.
-* Al participar en clase tener un mejor manejo de los temas.
-* Adquirir el hábito de practicar los temas.
-
 ----
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| OBJETIVO 1   | OBJETIVO 2  | OBJETIVO 3 |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+|Comprender bien cada tema dado en clase.      | Al participar en clase tener un mejor manejo de los temas. |  Adquirir el hábito de practicar los temas.
+ |
+
 
 ----
 ### Índice
