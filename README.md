@@ -46,6 +46,6 @@ _En este portafolio podran una página que es la home page donde se encuentran b
 ----
 | ORGANIZACIÓN   | INVESTIGACIÓN  | PROPÓSITO |
 | :------------: |:---------------:| :-----:|
-|Comprender bien cada tema dado en clase.      | Al participar en clase tener un mejor manejo de los temas. |  Adquirir el hábito de practicar los temas. |
+|Organizar mi tiempo para realizar los ejercicios y completar el portafolio.     | Desarrollar correctamente las actividades a realizar. |  Trabajar con esmero y mejorar los diseños utilizados, para entregar un buen trabajo. |
 
 ----
