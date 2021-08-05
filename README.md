@@ -16,9 +16,12 @@
 
 
 ----
-### Índice
-* Parte de la home page
-* Glosario de html
+####Ordered list
+                
+1. Item A
+2. Item B
+3. Item C
+                
 
 ### Características
 _En este portafolio podran una página que es la home page donde se encuentran botones para dirigirte al glosario, y un botón para dirigirte hacia mi perfil. En el glosario encontrarás las definiciones y ejemplos de las etiquetas vistas en clase para realizar el mismo._
