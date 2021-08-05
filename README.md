@@ -42,4 +42,10 @@ https://chacoons.github.io/glosario_1ro/
 ### CARACTERÍSTICAS
 _En este portafolio podran una página que es la home page donde se encuentran botones para dirigirte al glosario, y un botón para dirigirte hacia mi perfil. En el glosario encontrarás las definiciones y ejemplos de las etiquetas vistas en clase para realizar el mismo._
 
+ ## OBJETIVOS FUTUROS
+----
+| ORGANIZACIÓN   | INVESTIGACIÓN  | PROPÓSITO |
+| :------------: |:---------------:| :-----:|
+|Comprender bien cada tema dado en clase.      | Al participar en clase tener un mejor manejo de los temas. |  Adquirir el hábito de practicar los temas. |
 
+----
