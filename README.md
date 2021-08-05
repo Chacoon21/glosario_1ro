@@ -1,6 +1,5 @@
+![PORTADA](https://user-images.githubusercontent.com/77393842/128426736-762e667c-e5b1-4ebf-af57-1e310b0a04ef.png)
 
-# PORTAFOLIO III PERIODO 2021 !
-[SCL logo](https://user-images.githubusercontent.com/77393842/127577037-a93eb828-0a39-4d60-a96f-7deaa5a62e8b.png)
 
 
 * Colegio Santa Catlina Laboure
