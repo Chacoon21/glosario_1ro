@@ -12,8 +12,7 @@
 ----
 | OBJETIVO 1   | OBJETIVO 2  | OBJETIVO 3 |
 | :------------ |:---------------:| -----:|
-|Comprender bien cada tema dado en clase.      | Al participar en clase tener un mejor manejo de los temas. |  Adquirir el hábito de practicar los temas.
- |
+|Comprender bien cada tema dado en clase.      | Al participar en clase tener un mejor manejo de los temas. |  Adquirir el hábito de practicar los temas. |
 
 
 ----
