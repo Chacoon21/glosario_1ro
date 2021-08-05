@@ -12,11 +12,15 @@
 * Comprender bien cada tema dado en clase.
 * Al participar en clase tener un mejor manejo de los temas.
 * Adquirir el hábito de practicar los temas.
+
+----
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
+
+----
 ### Índice
 * Parte de la home page
 * Glosario de html
